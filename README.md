@@ -6,5 +6,5 @@
 
 Servidor alojado:
 
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
+- [GitHub Pages](https://github.com/amigos81/qr-code-component.git)
+- [Netlify](https://dulcet-halva-b4373a.netlify.app/)
